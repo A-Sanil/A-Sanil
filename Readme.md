@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sanil<br>👀 I’m interested in Bioinformatics and  DNA sequencing <br>🌱 I’m currently learning C++ and Python<br>
+👋 Hi, I’m Sanil<br>👀 I’m interested in Software  and  Bioinformatics  <br>🌱 I’m currently learning Java and Python<br>
 
 
 # 💻 Tech Stack:
