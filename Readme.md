@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sanil<br>👀 I’m interested in Software  and  AI ML   <br>🌱 I’m currently learning C++ and Rust <br>
+👋 Hi, I’m Sanil<br>👀 I’m currently an AWS SDE Intern  <br>🌱 I’m currently learning C++ and Rust <br>
 
 
 # 💻 Tech Stack:
